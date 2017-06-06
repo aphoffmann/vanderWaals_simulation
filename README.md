@@ -1,5 +1,6 @@
 # vanderWaals_simulation
 Simulations the movement of 25 argon atoms over 5000 movements
+The actual code that I wrote is 'main.m'
 
 Starts with the initial configuration
 ![alt text](https://raw.githubusercontent.com/aphoffmann/vanderWaals_simulation/master/Initial_Atom_Configuration.png)
