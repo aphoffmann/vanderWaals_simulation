@@ -8,4 +8,4 @@ Uses VanderWaals Model to simulate 5000 atomic movements to find final configura
 ![alt text](https://raw.githubusercontent.com/aphoffmann/vanderWaals_simulation/master/Final_Atom_Configuration.png)
 
 Tracks Potential vs. Kinetic Energy
-![alt text](https://raw.githubusercontent.com/aphoffmann/vanderWaals_simulation/master/Energy_chart.pngpng)
+![alt text](https://raw.githubusercontent.com/aphoffmann/vanderWaals_simulation/master/Energy_chart.png)
